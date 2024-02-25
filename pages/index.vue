@@ -1,7 +1,6 @@
 <template >
-    <h1>hello world</h1>
-    <h2>hello123</h2>
-    <nuxt-page></nuxt-page>
+    <header/>
+ <h2>你好</h2>
 </template>
 
 <script lang="ts" setup></script>
