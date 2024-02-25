@@ -1,10 +1,12 @@
 <template >
-
-    <header/>
+<appHeader />
+<h2>123</h2>
     <h1>hello world</h1>
-    <nuxt-page></nuxt-page>
-    <footer/>
+    <nuxt-page />
+
 </template>
 
 
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+
+</script>
