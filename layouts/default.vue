@@ -1,9 +1,9 @@
 <template >
-
-    <header/>
+    <header />
     <h1>hello world</h1>
     <nuxt-page></nuxt-page>
-    <footer/>
+    <footer />
+    <appfooter />
 </template>
 
 
