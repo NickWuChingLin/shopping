@@ -1,6 +1,6 @@
 <template >
-    <header/>
- <h2>你好</h2>
+    <h1>頭部</h1>
+
 </template>
 
 <script lang="ts" setup></script>
